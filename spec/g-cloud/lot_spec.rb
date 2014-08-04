@@ -1,4 +1,5 @@
 require "helper"
+require "pry"
 
 describe GCloud::Lot do
 
